@@ -21,7 +21,7 @@ public class BookServiceImpl implements BookService {
         // criando primeira story
         Story story1 = new Story();
         story1.setStoryName("Arrays");
-        // criando segundo second story
+        // criando segundo story
         Story story2 = new Story();
         story2.setStoryName("Pointers");
         // criando terceiro story
